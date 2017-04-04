@@ -1,0 +1,39 @@
+----------------------------------------------------------------
+Tue Apr 04 20:16:21 CEST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015b-3a2e-905b-0000069f5c60 
+on database directory memory:C:\Users\JustMe\Documents\NetBeansProjects\PV168-App\dragonrental\dragonrental-test with class loader sun.misc.Launcher$AppClassLoader@4aa298b7 
+Loaded from file:/C:/Users/JustMe/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-b13
+user.dir=C:\Users\JustMe\Documents\NetBeansProjects\PV168-App\dragonrental
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Apr 04 20:16:24 CEST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance 057e4652-015b-3a2e-905b-0000069f5c60 
+on database directory memory:C:\Users\JustMe\Documents\NetBeansProjects\PV168-App\dragonrental\personmgr-test with class loader sun.misc.Launcher$AppClassLoader@4aa298b7 
+Loaded from file:/C:/Users/JustMe/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-b13
+user.dir=C:\Users\JustMe\Documents\NetBeansProjects\PV168-App\dragonrental
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Apr 04 20:16:25 CEST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance 32530ba8-015b-3a2e-905b-0000069f5c60 
+on database directory memory:C:\Users\JustMe\Documents\NetBeansProjects\PV168-App\dragonrental\reservationManager-test with class loader sun.misc.Launcher$AppClassLoader@4aa298b7 
+Loaded from file:/C:/Users/JustMe/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-b13
+user.dir=C:\Users\JustMe\Documents\NetBeansProjects\PV168-App\dragonrental
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
